@@ -1,0 +1,14 @@
+openai 
+requests
+langchain_groq
+langchain
+groq
+langchain_core
+langchain-community
+langchain-cohere
+langchain-core
+chromadb
+pypdf
+pickle4
+sklearn-learn
+tavily-python
